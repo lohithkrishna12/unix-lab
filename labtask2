@@ -1,0 +1,15 @@
+Script started on 2025-04-08 13:53:45+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="151" LINES="43"]
+student@ai-HP-ProDesk-600-G4-MT:~/423166$ echo &quot;I love $HOME&quot; [K [K [K [K [K [K" [C [1P [1P [1P [1P [1P [1P [1@"
+I love /home/student
+student@ai-HP-ProDesk-600-G4-MT:~/423166$ touch file\with\slashes &amp;&amp; ls file\with\slashes [C [1P [1P [C [1P [1P [1P [1P [1P [1P [1P [1P [1P
+student@ai-HP-ProDesk-600-G4-MT:~/423166$ echo &#39;*&#39; [K [K [K [K [K [K [K [K [K [K [K [K " [K'*'
+*
+student@ai-HP-ProDesk-600-G4-MT:~/423166$ echo &#39;Today is &quot;Monday&quot;&#39; [K [K [K [K [K [K [K [K [K [K [K"' [C [1P;Monday"' [C [1PMonday"' [1PMonday"' [1PMonday"' [1PMonday"' [1PMonday"' [1PMonday"' Monday"' "Monday"' [1P [1P [1P [1P [1P [1@'
+Today is "Monday"
+student@ai-HP-ProDesk-600-G4-MT:~/423166$ touch &#39;data\&#39;sheet&#39; [K [K [K [K [K [K [K [K [K [K [K [K [K [K [K [K [K [K [K [K [K [K [K [K [K'data\'sheet'
+> hui
+> ^C
+student@ai-HP-ProDesk-600-G4-MT:~/423166$ exit6 [K
+exit
+
+Script done on 2025-04-08 13:59:49+05:30 [COMMAND_EXIT_CODE="130"]
